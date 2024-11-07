@@ -46,6 +46,18 @@ ul {
   background-image: url("bilder/Bilde2.jpg");
   background-position: center;
 }
+.featureText{
+  background-color: #fdfdfd;
+  opacity: 40%;
+  text-align: center;
+
+}
+.featureText h3{
+  font-size: 30px;
+}
+.featureText p{
+  font-size: 20px;
+}
 div {
   width: 50%;
 }
@@ -54,6 +66,11 @@ div {
 /*Placeholder value-will be deleted  */
 img{
   width: 40%;
+  
+}
+.smallimg{
+  width: 350px;
+  height: 450px;
 }
 
 /* FOOTER */
